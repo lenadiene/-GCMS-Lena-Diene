@@ -1,4 +1,4 @@
-# -GCMS-Lena-Diene
+# GCMS-Lena-Diene
 Colaboradores
 
 Lena Diene (@lenadiene, dono)
